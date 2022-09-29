@@ -1,0 +1,121 @@
+﻿tissue,level1,level2
+Bladder,Bladder.cells,bladder.cell_Bladder
+Bladder,Bladder.cells,bladder.urothelial.cell_Bladder
+Large Intestine,Epithelial.cells,epithelial.cell.of.large.intestine_Large_Intestine
+Lung,Epithelial.cells,epithelial.cell.of.lung_Lung
+Lung,Epithelial.cells,ciliated.columnar.cell.of.tracheobronchial.tree_Lung
+Trachea,Epithelial.cells,epithelial.cell_Trachea
+Kidney,Epithelial.cells,kidney.collecting.duct.epithelial.cell_Kidney
+Kidney,Epithelial.cells,epithelial.cell.of.proximal.tubule_Kidney
+Mammary Gland,Epithelial.cells,luminal.epithelial.cell.of.mammary.gland_Mammary_Gland
+Fat,B.cells,B.cell_Fat
+Spleen,B.cells,B.cell_Spleen
+Limb Muscle,B.cells,B.cell_Limb_Muscle
+Liver,B.cells,B.cell_Liver
+Lung,B.cells,B.cell_Lung
+Marrow,B.cells,naive.B.cell_Marrow
+Marrow,B.cells,B.cell_Marrow
+Fat,T.cells,T.cell_Fat
+Spleen,T.cells,T.cell_Spleen
+Limb Muscle,T.cells,T.cell_Limb_Muscle
+Lung,T.cells,T.cell_Lung
+Fat,Endothelial.cells,endothelial.cell_Fat
+Diaphragm,Endothelial.cells,endothelial.cell_Diaphragm
+Mammary Gland,Endothelial.cells,endothelial.cell_Mammary_Gland
+Pancreas,Endothelial.cells,endothelial.cell_Pancreas
+Heart,Endothelial.cells,endothelial.cell_Heart
+Heart,Endothelial.cells,endocardial.cell_Heart
+Kidney,Endothelial.cells,endothelial.cell_Kidney
+Limb Muscle,Endothelial.cells,endothelial.cell_Limb_Muscle
+Lung,Endothelial.cells,lung.endothelial.cell_Lung
+Trachea,Endothelial.cells,endothelial.cell_Trachea
+Aorta,Endothelial.cells,endothelial.cell_Aorta                                      
+Brain Non-Myeloid,Endothelial.cells,endothelial.cell_Brain_Non.Myeloid
+Liver,Endothelial.cells,endothelial.cell.of.hepatic.sinusoid_Liver
+Pancreas,Pancreatic.islets,pancreatic.A.cell_Pancreas
+Pancreas,Pancreatic.islets,type.B.pancreatic.cell_Pancreas
+Pancreas,Pancreatic.islets,pancreatic.PP.cell_Pancreas
+Pancreas,Pancreatic.islets,pancreatic.D.cell_Pancreas
+Pancreas,Pancreatic.stellate.cells,pancreatic.stellate.cell_Pancreas
+Skin,Epidermal.cells,epidermal.cell_Skin
+Skin,Epidermal.cells,keratinocyte.stem.cell_Skin
+Skin,Epidermal.cells,basal.cell.of.epidermis_Skin
+Skin,Epidermal.cells,stem.cell.of.epidermis_Skin
+Mammary Gland,Epidermal.cells,basal.cell_Mammary_Gland
+Tongue,Epidermal.cells,basal.cell.of.epidermis_Tongue
+Tongue,Epidermal.cells,keratinocyte_Tongue
+Brain Non-Myeloid,Astrocytes,astrocyte_Brain_Non.Myeloid
+Brain Non-Myeloid,Astrocytes,Bergmann.glial.cell_Brain_Non.Myeloid
+Brain Non-Myeloid,Neurons,neuron_Brain_Non.Myeloid
+Brain_Myeloid,Microglia,microglial.cell_Brain_Myeloid
+Marrow,Immature.B.cells,immature.B.cell_Marrow
+Marrow,Immature.B.cells,late.pro.B.cell_Marrow
+Marrow,Immature.B.cells,precursor.B.cell_Marrow
+Fat,Natural.killer.cells,natural.killer.cell_Fat
+Liver,Natural.killer.cells,natural.killer.cell_Liver
+Lung,Natural.killer.cells,natural.killer.cell_Lung
+Marrow,Natural.killer.cells,mature.natural.killer.cell_Marrow
+Aorta,Erythrocytes,erythrocyte_Aorta
+Trachea,Mesenchymal.cells,mesenchymal.cell_Trachea
+Diaphragm,Mesenchymal.cells,mesenchymal.stem.cell_Diaphragm
+Fat,Mesenchymal.cells,mesenchymal.stem.cell.of.adipose_Fat
+Heart,Mesenchymal.cells,fibroblast_Heart
+Heart,Mesenchymal.cells,myofibroblast.cell_Heart
+Limb Muscle,Mesenchymal.cells,mesenchymal.stem.cell_Limb_Muscle
+Lung,Mesenchymal.cells,stromal.cell_Lung
+Mammary Gland,Mesenchymal.cells,stromal.cell_Mammary_Gland
+Aorta,Mesenchymal.cells,fibroblast_Aorta
+Aorta,Myeloid.cells.(other),professional.antigen.presenting.cell_Aorta
+Fat,Myeloid.cells.(other),myeloid.cell_Fat
+Lung,Myeloid.cells.(other),myeloid.cell_Lung
+Marrow,Myeloid.cells.(other),granulocytopoietic.cell_Marrow
+Trachea,Myeloid.cells.(other),blood.cell_Trachea
+Marrow,Immature.T.cells,immature.T.cell_Marrow
+Thymus,Immature.T.cells,immature.T.cell_Thymus
+Thymus,Immature.T.cells,DN.thymic.pro.T.cell_Thymus
+Pancreas,Leukocytes.(other),leukocyte_Pancreas
+Heart,Leukocytes.(other),leukocyte_Heart
+Skin,Leukocytes.(other),leukocyte_Skin
+Diaphragm,Leukocytes.(other),lymphocyte_Diaphragm
+Kidney,Leukocytes.(other),leukocyte_Kidney
+Lung,Leukocytes.(other),leukocyte_Lung
+Thymus,Leukocytes.(other),leukocyte_Thymus
+Marrow,Immature.natural.killer.T.cells,immature.NK.T.cell_Marrow
+Diaphragm,Macrophages,macrophage_Diaphragm
+Spleen,Macrophages,macrophage_Spleen
+Kidney,Macrophages,macrophage_Kidney
+Limb Muscle,Macrophages,macrophage_Limb_Muscle
+Marrow,Macrophages,macrophage_Marrow
+Brain_Myeloid,Macrophages,macrophage_Brain_Myeloid
+Heart,Cardiac.muscle.cells,cardiac.muscle.cell_Heart
+Heart,Smooth.muscle.cells,smooth.muscle.cell_Heart
+Large Intestine,Cells.of.the.intestinal.lining,Brush.cell.of.epithelium.proper.of.large.intestine_Large_Intestine
+Large Intestine,Cells.of.the.intestinal.lining,enterocyte.of.epithelium.of.large.intestine_Large_Intestine
+Large Intestine,Cells.of.the.intestinal.lining,enteroendocrine.cell_Large_Intestine
+Liver,Kupffer.cells,Kupffer.cell_Liver
+Liver,Hepatocytes,hepatocyte_Liver
+Marrow,Granulocytes,granulocyte_Marrow
+Marrow,Basophils,basophil_Marrow
+Marrow,Progenitor.immune.cells,Slamf.positive.multipotent.progenitor.cell_Marrow
+Marrow,Progenitor.immune.cells,megakaryocyte.erythroid.progenitor.cell_Marrow
+Marrow,Progenitor.immune.cells,Slamf.negative.multipotent.progenitor.cell_Marrow
+Marrow,Progenitor.immune.cells,granulocyte.monocyte.progenitor.cell_Marrow
+Marrow,Progenitor.immune.cells,common.lymphoid.progenitor_Marrow
+Marrow,Progenitor.immune.cells,hematopoietic.precursor.cell_Marrow
+Large Intestine,Goblet.cells,large.intestine.goblet.cell_Large_Intestine
+Lung,Monocytes,monocyte_Lung
+Lung,Monocytes,classical.monocyte_Lung
+Marrow,Monocytes,monocyte_Marrow
+Fat,Unclassified.cells,NA_Fat
+Heart,Unclassified.cells,NA_Heart
+Lung,Unclassified.cells,NA_Lung
+Diaphragm,Satellite.cells,skeletal.muscle.satellite.stem.cell_Diaphragm
+Limb Muscle,Satellite.cells,skeletal.muscle.satellite.cell_Limb_Muscle
+Brain Non-Myeloid,Pericytes,brain.pericyte_Brain_Non.Myeloid
+Marrow,Immature.natural.killer.cells,pre.natural.killer.cell_Marrow
+Marrow,Immature.natural.killer.cells,immature.natural.killer.cell_Marrow
+Brain Non-Myeloid,Oligodendrocytes,oligodendrocyte_Brain_Non.Myeloid
+Brain Non-Myeloid,Oligodendrocytes,oligodendrocyte.precursor.cell_Brain_Non.Myeloid
+Pancreas,Pancreatic.acinar.cells,pancreatic.acinar.cell_Pancreas
+Pancreas,Pancreatic.ductal.cells,pancreatic.ductal.cell_Pancreas
+Marrow,Regulatory.T.cells,regulatory.T.cell_Marrow
