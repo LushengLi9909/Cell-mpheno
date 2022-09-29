@@ -12,3 +12,4 @@ connection between human phenotypes and human diseases comes from MONDO database
 To better maximise the value of these association results, the web-based application (http://www.cell-phenotype.com/) was developed to retrieve and explore the cell type-phenotype associations, cell type-phenotype-disease associations, and the cross-species phenotypes.
 
 ## Workflow
+<img src='' height='300'>
